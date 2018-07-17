@@ -1,0 +1,8 @@
+{
+  "host": "https://ewm.hozonauto.com",
+  "port": "9100",
+  "dev": true,
+  "devOption": {
+    "host": "http://10.0.6.31:9025"
+  }
+}

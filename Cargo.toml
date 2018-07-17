@@ -1,0 +1,14 @@
+[package]
+name = "learnrust"
+version = "0.1.0"
+authors = ["zoar"]
+
+[dependencies]
+mongodb = '*'
+rand = '*'
+libc = '*'
+actix-web = "*"
+#listenfd = "*"
+
+[patch.crates-io]
+
